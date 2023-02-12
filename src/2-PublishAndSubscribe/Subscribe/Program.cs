@@ -1,6 +1,8 @@
 ﻿using EasyNetQ;
 using Messages;
 
+namespace Subscribe;
+
 class Program
 {
     public static void Main(string[] args)
