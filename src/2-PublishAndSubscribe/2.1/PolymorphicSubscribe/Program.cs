@@ -1,6 +1,8 @@
 ﻿using EasyNetQ;
 using Messages.Polymorphic;
 
+namespace PolymorphicSubscribe;
+
 public class Program
 {
     static void Main(string[] args)
